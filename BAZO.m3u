@@ -264,6 +264,8 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" ,صاد
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/sudan/flag-round-250.png",السودان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
@@ -671,7 +673,8 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 https://rp.tactivemedia.com/alshoobtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png" ,وطن
 https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="",مـــوريتانيا
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zzk9W3zK/Flag-of-Mauritania-svg.png",مـــوريتانيا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
