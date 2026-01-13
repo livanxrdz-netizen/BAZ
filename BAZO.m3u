@@ -154,9 +154,9 @@ https://live.eighty-eight.tv:7770/elheddaf1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 KIDS DZ
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png",السعودية
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60QbjtLd/flag-round-250.png",السعودية
 0.0.0.0
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
