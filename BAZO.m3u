@@ -676,7 +676,7 @@ https://rp.tactivemedia.com/alshoobtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png" ,وطن
 https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zzk9W3zK/Flag-of-Mauritania-svg.png",مـــوريتانيا
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png",مـــوريتانيا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
