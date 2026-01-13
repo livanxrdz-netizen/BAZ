@@ -288,10 +288,10 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 https://hls.dabangasudan.org/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png",الــــعــــراق
-
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png",الــــعــــراق
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png",العراق
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" ,الشرقية
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imn.iq/wp-content/uploads/2022/04/1-9.jpg" ,العراقية
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imn.iq/wp-content/uploads/2022/04/1-9.jpg" ,العراقية الإخبارية
